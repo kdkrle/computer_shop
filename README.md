@@ -108,6 +108,7 @@ screen, which serves to update the discount.
 
 _Picture 3: Discount Update_
 
+
 At the top of the new screen we have a title, below which is a short 
 explanation about the way to select and sort the data to be selected.
 
