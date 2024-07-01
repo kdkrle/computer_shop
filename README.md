@@ -88,6 +88,10 @@ the application.
 
 ## 5.2.1 Discount
 
+![2 1 - Discount](https://github.com/kdkrle/computer_shop/assets/59825527/0c331e7b-e6c2-452a-a027-7680e47c8bcc)
+
+_Picture 2: Discount_
+
 By pressing the 'Discount' button or while opening the application itself, a 
 list of products that are currently on discount is displayed on the main 
 screen. Each of those items has an icon of the group the product belongs to,
@@ -99,6 +103,10 @@ Below the list is the 'Update' button. When we press it, it opens a new
 screen, which serves to update the discount.
 
 ### 5.2.2 Discount update
+
+![2 2 - Discount Update](https://github.com/kdkrle/computer_shop/assets/59825527/85c16c23-3d1c-442b-b2b6-bef235d54897)
+
+_Picture 3: Discount Update_
 
 At the top of the new screen we have a title, below which is a short 
 explanation about the way to select and sort the data to be selected.
