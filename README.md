@@ -108,7 +108,6 @@ screen, which serves to update the discount.
 
 _Picture 3: Discount Update_
 
-
 At the top of the new screen we have a title, below which is a short 
 explanation about the way to select and sort the data to be selected.
 
@@ -130,6 +129,10 @@ The 'Quit' button is used to close this window.
 
 ### 5.3 Sale
 
+![3 - Sale](https://github.com/kdkrle/computer_shop/assets/59825527/9d87d55b-4811-424e-ac33-fd26b76c2846)
+
+_Picture 4: Sale_
+
 Pressing the 'Sale' button opens the sales section, which serves as the 
 store's chash register.
 
@@ -147,6 +150,10 @@ releases the sale/bill.
 
 ### 5.4 Product review
 
+![4 - Product Review](https://github.com/kdkrle/computer_shop/assets/59825527/e23c747f-0102-4631-9f11-f2eff4ad4df7)
+
+_Picture 5: Product Review_
+
 Selecting 'Products' from the main menu opens a section for reviewing all 
 products.
 
@@ -163,6 +170,10 @@ button cancels these selections and sets them to their original values, but
 does not reset the list itself. To do that you need to press the first button.
 
 ### 5.5.1 Orders - review and status
+
+![5 1 - Orders - Review and Status](https://github.com/kdkrle/computer_shop/assets/59825527/0e2af35d-2ab6-4269-96b4-c3f5407d7ddb)
+
+_Pictures 6: Orders - Review and Status_
 
 By pressing the button 'Orders' from the main menu, we get the possibility 
 to review previous orders, create a new order and change the status of one 
@@ -191,6 +202,10 @@ the option from the drop-down menu and pressing the 'Change status' button.
 
 ## 5.5.2 Orders - creating new
 
+![5 2 - Orders - Creating New](https://github.com/kdkrle/computer_shop/assets/59825527/3c8262d1-ac96-4398-9b05-6d327ee9c27c)
+
+_Pictures 7: Orders - Creating New_
+
 Pressing the 'Create New' button opens a new window where we can create a 
 new order. In that window there are two frames and five buttons.
 
@@ -209,6 +224,10 @@ realize the order, which gets the status 'Received'. The 'Exit' button
 closes this window.
 
 ### 5.6 Stock update
+
+![6 - Stock Update](https://github.com/kdkrle/computer_shop/assets/59825527/5fb62ed9-ff08-497c-8b1f-334c191e6993)
+
+_Picture 8: Stock Update_
 
 The 'Stock' button takes us to the section where we can update the stock. 
 Stocks are updated when replenished or in order to correct errors in stock.
@@ -232,6 +251,10 @@ updates it in the database.
 
 ### 5.7 Reports
 
+![7 - Reports](https://github.com/kdkrle/computer_shop/assets/59825527/f066f01a-e99a-469b-afdc-858520ecb7f4)
+
+_Pictures 9: Reports_
+
 Pressing the 'Reports' button opens a new window with the same title. 
 Below the title is a short notice that from here you can get a graphic 
 display of some statistical data about the products or about the operation 
@@ -245,22 +268,58 @@ The nine buttons have the following function. The first opens a bar chart
 with the top 15 best-selling products (in-store and through orders), with 
 the total number of sales in the middle of the column.
 
+![7 1 - Best Selling](https://github.com/kdkrle/computer_shop/assets/59825527/a871e6f2-b6d8-4936-888f-e5932fd86597)
+
+_Picture 10: Best Selling_
+
 The second button takes us to the display of 10 products with the highest 
 prices, and the third one to the display of 10 products with the lowest prices.
+
+![7 2 - Highest Prices](https://github.com/kdkrle/computer_shop/assets/59825527/4301946a-900b-4c21-a1da-c3e860e6c469)
+
+_Pictures 11: Highest Prices_
+
+![7 3 - Lowest Prices](https://github.com/kdkrle/computer_shop/assets/59825527/002a258b-52cf-4a4d-9c1a-9141c01cb43d)
+
+_Picture 12: Lowest Prices_
 
 The fourth chart shows which 10 products generated the most income 
 (in-store and through orders), with total sales in the middle of the column.
 
+![7 4 - Highest Income](https://github.com/kdkrle/computer_shop/assets/59825527/110af63d-6777-40fb-8146-4c0f1bc56009)
+
+_Pictures 13: Highest Income_
+
 The fifth and sixth graphs are percentages of products sold per group and 
 percentages of product income, also per group.
+
+![7 5 - Group Selling](https://github.com/kdkrle/computer_shop/assets/59825527/d14ea4d3-3bb2-4910-b34c-cc7fe647110d)
+
+_Pictures 14: Group Selling_
+
+![7 6 - Group Income](https://github.com/kdkrle/computer_shop/assets/59825527/89a6ae4d-1a2f-4041-95f8-29a5abb72acb)
+
+_Pictures 15: Group Income_
 
 The seventh and eighth charts represent the number of products sold and the 
 amount of income per manufacturer, with the fact that for the sake of 
 clear view, only the first 15 manufacturers were selected for this second 
 chart.
 
+![7 7 - Manufacturer Selling](https://github.com/kdkrle/computer_shop/assets/59825527/ff7938f7-fd7e-4c7f-a496-e7d140fecac9)
+
+_Picture 16: Manufacturer Selling_
+
+![7 8 - Manufacturer Income](https://github.com/kdkrle/computer_shop/assets/59825527/87ff1b9f-3d8d-45e3-8911-c053af1f11d9)
+
+_Picture 17: Manufacturer Income_
+
 The last chart shows the top daily income, along with the store income 
 and order income for that day.
+
+![7 9 - Daily Income](https://github.com/kdkrle/computer_shop/assets/59825527/039f93d9-b386-4cdc-9582-9856b07f9e87)
+
+_Picture 18: Daily Income_
 
 NOTE: In some charts, product codes are used instead of their names, as 
 it would be awkward to use the names, because some of them are very long.
