@@ -69,6 +69,10 @@ Tables:
 
 ## 5.1 Main screen - opening
 
+![1 - Main Screen](https://github.com/kdkrle/computer_shop/assets/59825527/98d91862-8192-4b85-8c47-14c622139f42)
+
+_Picture 1: Main Screen - Opening_
+
 At the top of the main screen there is an image with the name of the store. 
 Below that there are two parts.
 
